@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "66f20526-2a5e-4c20-a1af-a9e57afcb0cc",
+  "revision": 73,
+  "createdAt": "2026-09-28T08:11:31.508Z",
+  "exportedAt": "2026-09-28T20:02:34.208Z",
+  "learnerLabel": "Week 2: Is This Project Worth Doing?",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "They should continue with the quality control process."
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "They need to prove that the robot returns to its neutral state and resumes production; even though Mara cannot guarantee it, it is crucial to find a way for the robot to return."
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "The sponsor is the beneficiary; the amount is reportedly $3,000 in personal time over the course of 10 business days."
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "The recommended work under W02-S03 includes reviewing command-authorization ownership, inventorying test scheduling and retirement controls, documenting an evidence-preservation checklist, and identifying gaps, with deliverables consisting of a command-ownership record, scheduling/retirement control inventory, and evidence-preservation checklist; unknown owners or missing evidence will be recorded explicitly rather than guessed."
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "This review does not authorize restarting or operating MR-17, changing software or test schedules, deleting or modifying original records, purchasing a replacement robot, selecting a vendor, or expanding the review to other cells; any change in scope must explain what value is retained or deferred."
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": "The review can use the available documentation tools and read-only record exports. W02-S04: access to the necessary exports has been requested but is not yet confirmed; if access is denied, the team must revise the work or defer it. Original records must remain preserved and unchanged."
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "The work can fit around existing duties because it uses the current QA → custodian → QA/Engineering → Operations workflow and does not require operating MR-17 or changing systems. The relevant record custodian, QA, Engineering, and Operations should confirm their availability to provide records, review origin and meaning, and receive/use the resulting outputs."
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "Per W02-S05, the $2,820 base estimate is $180 below the $3,000 envelope, while the $2,350–$3,525 planning range runs from $650 below to $525 above the envelope. The estimate excludes equipment purchases, software licenses, overtime, supplier quotes, and guaranteed costs."
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "The eight-business-day plan fits within the ten-day limit, leaving two days of margin. It depends on receiving exports by day 3 and staff availability for Engineering and QA. The 48 staff hours are total person-hours, not 48 elapsed hours, because tasks can overlap."
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "Known limits are an eight-business-day schedule, provisional staffing of 24 analyst hours, 12 Engineering hours, 8 QA hours, and 4 Operations hours, unconfirmed access to required read-only exports, and the safety requirement that all learner work remain outside the safety glass with original records preserved. No specific budget amount is established. Possible future events, not current facts, include denied access, a shift reassignment affecting the QA window, or late exports delaying Engineering."
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "A key assumption to check is that the required read-only exports will be available by day 3. If access is delayed or denied, delivery could slip beyond eight business days or the review may need to be reduced or deferred. The record custodian should confirm export availability and access."
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "In total, the six recovery periods amount to 60 minutes, with an average of 10 minutes per request."
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "proceed"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "The review is feasible because it uses existing tools and read-only exports (W02-S04), and the $2,820 base estimate fits within the $3,000 budget (W02-S05). The key tradeoffs are uncertain export access and the upper cost range exceeding the budget. These uncertainties most affected the judgment."
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "The record custodian should confirm access to the required read-only exports; the analyst should complete the review and document gaps; Engineering and QA should confirm availability and review the evidence; and Operations should confirm availability to receive the outputs. The analyst recommends the next step, while the sponsor authorizes the work and addresses any budget or scope uncertainty."
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
