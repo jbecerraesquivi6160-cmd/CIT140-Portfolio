@@ -8,7 +8,7 @@ Jose Becerra
 
 ## Weeks 1–7 Original Artifacts
 * **Week 1 (Problem Brief):** [CIT 140 Week 1 Problem Brief.pdf](./CIT%20140%20Week%201%20Problem%20Brief.pdf)
-* **Week 2 (Business Case):** [Becerra_Jose_CIT140_Week02_Business_Case.pdf..pdf)
+* **Week 2 (Business Case):** [Business Case PDF](./Becerra_Jose_CIT140_Week02_Business_Case.pdf..pdf)
 * **Week 3 (Stakeholder Map & Book Form):** [Stakeholder Map](./Becerra_Jose_CIT140_Week03_Stakeholder_Map.pdf) | [Book Form](./Becerra_Jose_CIT140_Week03_Book_Form.pdf)
 * **Week 4 (Validated Requirements):** [CIT140 Week 4 Validated Requirements.pdf](./CIT140%20Week%204%20Validated%20Requirements.pdf)
 * **Week 5 (Current Process Model):** [Process Model PDF](./CIT140_Week05_Process_Model_Starter%20(1).drawio.pdf) | [Editable Diagram](./CIT140_Week05_Process_Model_Starter%20(1).drawio)
