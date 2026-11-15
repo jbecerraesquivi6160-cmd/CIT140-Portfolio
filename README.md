@@ -12,5 +12,5 @@ Jose Becerra
 * **Week 3 (Stakeholder Map & Book Form):** [Stakeholder Map](./Becerra_Jose_CIT140_Week03_Stakeholder_Map.pdf) | [Book Form](./Becerra_Jose_CIT140_Week03_Book_Form.pdf)
 * **Week 4 (Validated Requirements):** [CIT140 Week 4 Validated Requirements.pdf](./CIT140%20Week%204%20Validated%20Requirements.pdf)
 * **Week 5 (Current Process Model):** [Process Model PDF](./CIT140_Week05_Process_Model_Starter%20(1).drawio.pdf) | [Editable Diagram](./CIT140_Week05_Process_Model_Starter%20(1).drawio)
-* **Week 6 (Data Flow Model):** [Data Flow Model PDF](./Becerra_Jose_CIT140-Week06-Starter.drawio.pdf)
+* **Week 6 (Data Flow Model):** [Data Flow Model PDF](./Becerra_%20Jose_CIT140-Week06-Starter.drawio.pdf)
 * **Week 7 (Data-Quality Report):** [Data-Quality Report PDF](./Becerra_Jose%20CIT140-Week07-Report.pdf)
